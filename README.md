@@ -1,4 +1,4 @@
-# Spring Data REST Project Setup Guide
+# Spring Data REST Guide
 
 ## Introduction to Spring Data REST
 
